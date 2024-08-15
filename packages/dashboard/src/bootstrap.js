@@ -3,6 +3,7 @@ import { createApp } from "vue";
 import Dashboard from "./components/Dashboard.vue";
 
 // deploy
+// deploy
 
 // Mount function to start up the app
 const mount = (el) => {
